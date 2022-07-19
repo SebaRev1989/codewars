@@ -1,2 +1,2 @@
 # CodeWars Solutions
-This is a personal solutions of CodeWars katas.
+These are my personal solutions for CodeWars katas.
